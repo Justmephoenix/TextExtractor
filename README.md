@@ -75,4 +75,6 @@ Thanks for choosing and using OptiScripter!
 vbnet
 Copy code
 
-Note: Replace placeholder texts like `[Linktree](#linktree)` with a
+
+Note: Replace placeholder texts like `[Linktree](#linktree)` with actual links or content as needed.
+
